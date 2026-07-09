@@ -9,4 +9,4 @@ assets:
 - name: remastered/xw_dh_5000.wpn/-97c0.dds
   method: copy
   source:
-  - name: remastered/xw_dh_5000.wpn/-97c0.dds
+  - name: remastered/xw_dh_5001.wpn/-97c0.dds
