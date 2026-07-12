@@ -10,3 +10,7 @@ assets:
   method: copy
   source:
   - name: remastered/xw_ex_5010.wpn/-9b40.dds
+- name: remastered/xw_ex_5010.wpn/-15f00.dds
+  method: copy
+  source:
+  - name: remastered/xw_ex_5010.wpn/-15f00.dds
